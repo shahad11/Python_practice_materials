@@ -1,0 +1,7 @@
+Datasetname,starttime,endtime,price
+Dataset1,6/12/23 1:00 AM,6/12/23 3:00 AM,2.5
+Dataset1,6/12/23 3:15 AM,6/12/23 4:15 AM,1.5
+Dataset1,6/12/23 4:30 AM,6/12/23 6:00 AM,3.5
+Dataset2,6/12/23 1:00 AM,6/12/23 2:00 AM,4.5
+Dataset2,6/12/23 2:15 AM,6/12/23 3:15 AM,2.5
+Dataset2,6/12/23 4:15 AM,6/12/23 6:00 AM,3.5

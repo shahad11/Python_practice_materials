@@ -1,0 +1,9 @@
+Write a Python program to calculate the factorial of a number.
+Write a Python program to reverse a string.
+Write a Python program to check if a number is prime.
+Write a Python program to find the maximum and minimum values in a list.
+Write a Python program to sort a list in ascending order.
+Write a Python program to print the Fibonacci sequence up to a certain number.
+Write a Python program to find the average of a list of numbers.
+Write a Python program to read a file and print its contents.
+Write a Python program to write to a file.
